@@ -22,7 +22,6 @@ A simple and user-friendly weather web application that provides real-time weath
 
 ## Demo
 
-![Weather Web App Demo](path_to_screenshot_or_demo_gif)
 
 Try the live demo here: [Link to Deployed App](#)
 
